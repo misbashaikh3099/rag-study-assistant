@@ -1,0 +1,15 @@
+# Core RAG Framework
+langchain
+chromadb
+
+# Embedding & NLP Models
+sentence-transformers
+transformers
+torch
+
+# Document Processing
+pdfplumber
+
+# Data Analysis & Visualization
+pandas
+matplotlib
